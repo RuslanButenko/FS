@@ -36,7 +36,7 @@
 </div>
 <section class="section section-default border-0 mt-5 appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="1200">
     <div class="container py-4">
-        <div class="row featured-boxes featured-boxes-style-4">
+        <div class="row featured-boxes featured-boxes-style-4 text-align-last">
             <div class="col-md-6 col-lg-3 my-2">
                 <div class="m-0 featured-box featured-box-primary featured-box-effect-4 appear-animation" data-appear-animation="fadeInLeftShorter" data-appear-animation-delay="1600">
                     <div class="box-content p-0 text-start">
