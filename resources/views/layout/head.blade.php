@@ -1,7 +1,7 @@
 <!-- Basic -->
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>About Me | Foxhand </title>
+<title>{{ trans('index.home') }} | {{ trans('index.name') }}</title>
 <meta name="keywords" content="WebSite Template" />
 <meta name="description" content="Foxhand">
 <meta name="author" content="@foxhand">
